@@ -1,4 +1,4 @@
-# Sentiment Analysis of German Texts
+# Sentiment Analysis of German Reviews
 
 ## Overview
 This document provides a comprehensive overview of a project that aims to perform sentiment analysis on German texts. The primary focus is on analyzing reviews provided in German, particularly targeting feedback on healthcare services. The goal is to classify the sentiments expressed in these reviews accurately, allowing for better understanding and improvement of services offered.
